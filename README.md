@@ -37,11 +37,13 @@ Full SDK reference: the `website/docs/developer-guide/desktop-plugin-sdk.md` fil
 
 | Plugin | Description | Author |
 |--------|-------------|--------|
-| [Tool Router](https://github.com/AtlasOmnia/hermes-tool-router) | Deterministic, fail-open tool routing with optional local-model fallback | [@AtlasOmnia](https://github.com/AtlasOmnia) |
 
-<!-- Add new rows above this line. Format:
+*No entries yet — be the first!*
+
+Row format:
+```
 | [Plugin Name](repo-url) | One-line description of what it adds to the desktop app | [@author](author-url) |
--->
+```
 
 ---
 

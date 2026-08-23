@@ -21,6 +21,7 @@ commit range, so we always know the state we resume from.
 - Starter row: hermes-tool-router as the example entry
 **Verification:** Files written and verified on disk; repo created via `gh repo create` (public); pushed to origin/main.
 **Status:** CODE-COMPLETE
+**Correction (same day):** commit ca11ebd removed the hermes-tool-router starter row — it's a Python agent-level plugin (`plugin.yaml`), not a desktop-client ESM plugin, so it violated this repo's own submission rules. List starts empty with row-format hint instead.
 **Next-run resume point:** Update org front-page README (AtlasOmnia/AtlasOmnia) Community section to link this repo; optionally pin the repo; add monthly link-liveness check if approved.
 
 ---

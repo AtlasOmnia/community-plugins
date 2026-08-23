@@ -38,7 +38,7 @@ Full SDK reference: the `website/docs/developer-guide/desktop-plugin-sdk.md` fil
 | Plugin | Description | Author |
 |--------|-------------|--------|
 
-*No entries yet — be the first!*
+| [Insight](https://github.com/BrokeSkill/Hermes-Insight) | Selection popup (Respond + Define) plus a right-docked panel that streams inline-cited dictionary/definition answers from a provider of your choice | [@BrokeSkill](https://github.com/BrokeSkill) |
 
 Row format:
 ```

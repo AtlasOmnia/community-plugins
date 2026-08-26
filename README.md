@@ -33,12 +33,38 @@ Full SDK reference: the `website/docs/developer-guide/desktop-plugin-sdk.md` fil
 
 ## The list
 
-### Panes & Dashboards
+Every entry below was verified against a public repository containing a native Hermes Desktop `plugin.js` that imports `@hermes/plugin-sdk`. Listings are still **not security audits**. Review source and each project's install instructions before use.
+
+### Appearance
 
 | Plugin | Description | Author |
 |--------|-------------|--------|
+| [Codex Skin](https://github.com/FPSUnleashed/hermes-codex-skin) | Codex-inspired light and dark chat styling while retaining Hermes' native behavior. | [@FPSUnleashed](https://github.com/FPSUnleashed) |
+| [Appearance Hub](https://github.com/Heybinshao/hermes-appearance-hub) | Status-bar appearance controls for themes, typography, texture, density, scale, and window effects. | [@Heybinshao](https://github.com/Heybinshao) |
+| [Theme Lab](https://github.com/0-CYBERDYNE-SYSTEMS-0/theme-lab) | Builds and fine-tunes Hermes Desktop color themes from an image and color controls. | [@0-CYBERDYNE-SYSTEMS-0](https://github.com/0-CYBERDYNE-SYSTEMS-0) |
 
-*No entries yet — be the first!*
+### Bots & Remote Control
+
+| Plugin | Description | Author |
+|--------|-------------|--------|
+| [Bot Horizon](https://github.com/DakkuaDev/hermes-bot-horizon) | A local visual town that turns Bot Mode activity and crons into quests, levels, and status views. | [@DakkuaDev](https://github.com/DakkuaDev) |
+| [Hermes QR Remote](https://github.com/tuancookiez-hub/hermes-qr-remote-plugin) | Phone control surface for Desktop sessions, tool activity, and stop/send actions via a local Tailscale sidecar. | [@tuancookiez-hub](https://github.com/tuancookiez-hub) |
+
+### Usage & Session Insight
+
+| Plugin | Description | Author |
+|--------|-------------|--------|
+| [Resetwatch](https://github.com/Adolanium/hermes-resetwatch) | Dashboard for remaining model-plan allowance and reset times using existing local sign-ins. | [@Adolanium](https://github.com/Adolanium) |
+| [Ledgerline](https://github.com/Adolanium/hermes-ledgerline) | Live and historical cost, token, budget, and session analysis for local or remote gateways. | [@Adolanium](https://github.com/Adolanium) |
+| [Session Analyzer](https://github.com/tommulkins/hermes-plugin-session-analyzer) | Sidebar and command-palette analysis of session health, tool failures, context use, and cost. | [@tommulkins](https://github.com/tommulkins) |
+
+### Tasks & Notes
+
+| Plugin | Description | Author |
+|--------|-------------|--------|
+| [Hermes Todo](https://github.com/DanBennettUK/hermes-todo) | Profile-scoped task board shared across Hermes Desktop, CLI, REST API, and agents. | [@DanBennettUK](https://github.com/DanBennettUK) |
+| [Hermes Tasks](https://github.com/itsbeaudean/hermes-tasks) | Local task workflow with areas, task state, and a small Desktop plugin plus optional backend. | [@itsbeaudean](https://github.com/itsbeaudean) |
+| [Hermes Sticky Notes](https://github.com/VGFreakXBL/hermes-sticky-notes) | Profile-scoped sticky notes inside Hermes Desktop, including movable and stackable notes. | [@VGFreakXBL](https://github.com/VGFreakXBL) |
 
 Row format:
 ```

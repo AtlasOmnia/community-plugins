@@ -47,7 +47,6 @@ Every entry below was verified against a public repository containing a native H
 
 | Plugin | Description | Author |
 |--------|-------------|--------|
-| [Bot Horizon](https://github.com/DakkuaDev/hermes-bot-horizon) | A local visual town that turns Bot Mode activity and crons into quests, levels, and status views. | [@DakkuaDev](https://github.com/DakkuaDev) |
 | [Hermes QR Remote](https://github.com/tuancookiez-hub/hermes-qr-remote-plugin) | Phone control surface for Desktop sessions, tool activity, and stop/send actions via a local Tailscale sidecar. | [@tuancookiez-hub](https://github.com/tuancookiez-hub) |
 
 ### Usage & Session Insight

@@ -42,12 +42,17 @@ Every entry below was verified against a public repository containing a native H
 | [Codex Skin](https://github.com/FPSUnleashed/hermes-codex-skin) | Codex-inspired light and dark chat styling while retaining Hermes' native behavior. | [@FPSUnleashed](https://github.com/FPSUnleashed) |
 | [Appearance Hub](https://github.com/Heybinshao/hermes-appearance-hub) | Status-bar appearance controls for themes, typography, texture, density, scale, and window effects. | [@Heybinshao](https://github.com/Heybinshao) |
 | [Theme Lab](https://github.com/0-CYBERDYNE-SYSTEMS-0/theme-lab) | Builds and fine-tunes Hermes Desktop color themes from an image and color controls. | [@0-CYBERDYNE-SYSTEMS-0](https://github.com/0-CYBERDYNE-SYSTEMS-0) |
+| [Hermes Theme Picker](https://github.com/jdtimothy/hermes-theme-picker) | Offline full-page theme picker with embedded palettes, local persistence, and optional gateway-wide sync. | [@jdtimothy](https://github.com/jdtimothy) |
 
 ### Bots & Remote Control
 
 | Plugin | Description | Author |
 |--------|-------------|--------|
 | [Hermes QR Remote](https://github.com/tuancookiez-hub/hermes-qr-remote-plugin) | Phone control surface for Desktop sessions, tool activity, and stop/send actions via a local Tailscale sidecar. | [@tuancookiez-hub](https://github.com/tuancookiez-hub) |
+| [Hermes Relay](https://github.com/Codename-11/hermes-relay) | Native relay management for pairing, activity, media, and remote access inside Desktop. | [@Codename-11](https://github.com/Codename-11) |
+| [Hermes Computer Viewer](https://github.com/thomasbek3/hermes-computer-viewer) | Docked live remote-desktop viewer for cloud or LAN Mac, Windows, and Linux machines. | [@thomasbek3](https://github.com/thomasbek3) |
+| [Hermes Agent Dock](https://github.com/BkashJEE/hermes-agent-dock) | Floating or docked native card for direct chat with configured profiles and concurrent jobs. | [@BkashJEE](https://github.com/BkashJEE) |
+| [Hermes Gateway Switcher](https://github.com/djedi/hermes-gateway-switcher) | Switches between named local, SSH, and remote OAuth gateways without closing Desktop. | [@djedi](https://github.com/djedi) |
 
 ### Usage & Session Insight
 
@@ -56,6 +61,18 @@ Every entry below was verified against a public repository containing a native H
 | [Resetwatch](https://github.com/Adolanium/hermes-resetwatch) | Dashboard for remaining model-plan allowance and reset times using existing local sign-ins. | [@Adolanium](https://github.com/Adolanium) |
 | [Ledgerline](https://github.com/Adolanium/hermes-ledgerline) | Live and historical cost, token, budget, and session analysis for local or remote gateways. | [@Adolanium](https://github.com/Adolanium) |
 | [Session Analyzer](https://github.com/tommulkins/hermes-plugin-session-analyzer) | Sidebar and command-palette analysis of session health, tool failures, context use, and cost. | [@tommulkins](https://github.com/tommulkins) |
+| [Hermes Quota Plugin](https://github.com/rarf/hermes-quota-plugin) | Provider quota and reset status-bar widget with a detailed quota view. | [@rarf](https://github.com/rarf) |
+| [Hermes Status Panel](https://github.com/lzpgood123/hermes-status-panel) | Full status page for gateway, model, session, working-directory, and live gateway-event state. | [@lzpgood123](https://github.com/lzpgood123) |
+| [Hermes Token Cost](https://github.com/muntasirrmahdi/hermes-token-cost) | Status-bar token counter and historical actual-versus-list-price cost panel. | [@muntasirrmahdi](https://github.com/muntasirrmahdi) |
+| [Hermes API Speed Monitor](https://github.com/kouyichi/hermes-api-speed-monitor) | Status-bar time-to-first-token and output-throughput metrics for supported providers. | [@kouyichi](https://github.com/kouyichi) |
+| [Hermes Memory UI](https://github.com/xraysight/hermes-memory-ui) | Read-only native memory browser for built-in and supported external memory stores. | [@xraysight](https://github.com/xraysight) |
+
+### Projects & Development
+
+| Plugin | Description | Author |
+|--------|-------------|--------|
+| [GitHermes](https://github.com/claudioorjunior/githermes) | Dockable GitHub pull-request and issue pane with reviews, checks, files, threads, and in-pane merge. | [@claudioorjunior](https://github.com/claudioorjunior) |
+| [Hermes Projects](https://github.com/az1fr3/Hermes-projects-) | Project-scoped workspaces with persistent instructions, chats, and generated context files. | [@az1fr3](https://github.com/az1fr3) |
 
 ### Tasks & Notes
 

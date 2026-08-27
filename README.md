@@ -43,6 +43,16 @@ Every entry below was verified against a public repository containing a native H
 | [Appearance Hub](https://github.com/Heybinshao/hermes-appearance-hub) | Status-bar appearance controls for themes, typography, texture, density, scale, and window effects. | [@Heybinshao](https://github.com/Heybinshao) |
 | [Theme Lab](https://github.com/0-CYBERDYNE-SYSTEMS-0/theme-lab) | Builds and fine-tunes Hermes Desktop color themes from an image and color controls. | [@0-CYBERDYNE-SYSTEMS-0](https://github.com/0-CYBERDYNE-SYSTEMS-0) |
 | [Hermes Theme Picker](https://github.com/jdtimothy/hermes-theme-picker) | Offline full-page theme picker with embedded palettes, local persistence, and optional gateway-wide sync. | [@jdtimothy](https://github.com/jdtimothy) |
+| [Classic Gold Pack](https://github.com/Elevatormusic/hermes-classic-gold-pack) | Update-safe gold theme, caduceus background, telemetry tape, and settings page with a companion telemetry backend. | [@Elevatormusic](https://github.com/Elevatormusic) |
+| [OpenAI Shadcn Theme](https://github.com/agentik-os/hermes-openai-shadcn) | Neutral light and dark theme with floating-panel layout polish for supported Desktop SDK builds. | [@agentik-os](https://github.com/agentik-os) |
+| [Profile Identity](https://github.com/douglascorrea/hermes-profile-identity) | Per-profile titlebar chip, rail icon, chat backdrop, color override, and settings pane. | [@douglascorrea](https://github.com/douglascorrea) |
+
+### Collaboration & Workflow
+
+| Plugin | Description | Author |
+|--------|-------------|--------|
+| [Buzz-Hive](https://github.com/0-CYBERDYNE-SYSTEMS-0/hermes-hive) | Native multi-profile crew room that routes work by mention through dedicated Hermes sessions. | [@0-CYBERDYNE-SYSTEMS-0](https://github.com/0-CYBERDYNE-SYSTEMS-0) |
+| [Hermes OpenSpec](https://github.com/FelineStateMachine/hermes-openspec) | Spec-driven development tools plus a Desktop tab for proposals, specs, and branch diffs. | [@FelineStateMachine](https://github.com/FelineStateMachine) |
 
 ### Bots & Remote Control
 
@@ -66,6 +76,16 @@ Every entry below was verified against a public repository containing a native H
 | [Hermes Token Cost](https://github.com/muntasirrmahdi/hermes-token-cost) | Status-bar token counter and historical actual-versus-list-price cost panel. | [@muntasirrmahdi](https://github.com/muntasirrmahdi) |
 | [Hermes API Speed Monitor](https://github.com/kouyichi/hermes-api-speed-monitor) | Status-bar time-to-first-token and output-throughput metrics for supported providers. | [@kouyichi](https://github.com/kouyichi) |
 | [Hermes Memory UI](https://github.com/xraysight/hermes-memory-ui) | Read-only native memory browser for built-in and supported external memory stores. | [@xraysight](https://github.com/xraysight) |
+| [Context Meter](https://github.com/JaakkoLipp/Hermes-desktop-plugins) | Inline composer context-use meter and warning control for the active conversation. | [@JaakkoLipp](https://github.com/JaakkoLipp) |
+| [OpenAI Usage Counter](https://github.com/Noa3/hermes-openai-counter) | Status-bar OpenAI usage counter for active account consumption. | [@Noa3](https://github.com/Noa3) |
+| [Account & Resources Footer](https://github.com/agentik-os/hermes-account-resource-footer) | Gateway-scoped quota, context, CPU, RAM, disk, account-switching, and reconnect status control. | [@agentik-os](https://github.com/agentik-os) |
+| [Hermes Server Stats](https://github.com/lzpgood123/hermes-server-stats) | Desktop page for read-only server health, token usage, tool/skill counts, and trends. | [@lzpgood123](https://github.com/lzpgood123) |
+
+### Models & Infrastructure
+
+| Plugin | Description | Author |
+|--------|-------------|--------|
+| [Turbofit](https://github.com/SouthpawIN/turbofit) | Adaptive local-inference runtime and Desktop configuration surface for hardware-fit model selection. | [@SouthpawIN](https://github.com/SouthpawIN) |
 
 ### Projects & Development
 
@@ -73,6 +93,13 @@ Every entry below was verified against a public repository containing a native H
 |--------|-------------|--------|
 | [GitHermes](https://github.com/claudioorjunior/githermes) | Dockable GitHub pull-request and issue pane with reviews, checks, files, threads, and in-pane merge. | [@claudioorjunior](https://github.com/claudioorjunior) |
 | [Hermes Projects](https://github.com/az1fr3/Hermes-projects-) | Project-scoped workspaces with persistent instructions, chats, and generated context files. | [@az1fr3](https://github.com/az1fr3) |
+
+### Security & External Integrations
+
+| Plugin | Description | Author |
+|--------|-------------|--------|
+| [Chthonios Lock](https://github.com/iacker/hermes-chthonios) | Desktop controls for sealing and unlocking a Hermes profile's credentials at rest. | [@iacker](https://github.com/iacker) |
+| [VRChat Monitor](https://github.com/ggg123124/vrchat-assistant) | Desktop pane for a local VRChat monitoring and automation service; requires a separately configured VRChat account. | [@ggg123124](https://github.com/ggg123124) |
 
 ### Tasks & Notes
 

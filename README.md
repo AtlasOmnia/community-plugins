@@ -58,6 +58,9 @@ Every entry below was verified against a public repository containing a native H
 | [Buzz-Hive](https://github.com/0-CYBERDYNE-SYSTEMS-0/hermes-hive) | Native multi-profile crew room that routes work by mention through dedicated Hermes sessions. | [@0-CYBERDYNE-SYSTEMS-0](https://github.com/0-CYBERDYNE-SYSTEMS-0) |
 | [Hermes OpenSpec](https://github.com/FelineStateMachine/hermes-openspec) | Spec-driven development tools plus a Desktop tab for proposals, specs, and branch diffs. | [@FelineStateMachine](https://github.com/FelineStateMachine) |
 | [Agent Fleet](https://github.com/chankov/agent-fleet) | Multi-agent coding-orchestration system with a live Hermes Desktop fleet panel. | [@chankov](https://github.com/chankov) |
+| [Fleet Control](https://github.com/kabuto-png/fleet-control) | Read-only fleet pane for cmux, Claude, Codex, and Hermes workers with workspace and heartbeat state. | [@kabuto-png](https://github.com/kabuto-png) |
+| [GitHub Studio](https://github.com/Koktongkt/hermes-github-studio) | Native GitHub profile, repository, activity, commit, and pull-request browser using local `gh` auth. | [@Koktongkt](https://github.com/Koktongkt) |
+| [Design Plugin](https://github.com/labsiqbal/hermes-design-plugin) | Editable design studio for artboards, brand guides, moodboards, layers, model-assisted candidates, and exports. | [@labsiqbal](https://github.com/labsiqbal) |
 
 ### Bots & Remote Control
 
@@ -84,6 +87,9 @@ Every entry below was verified against a public repository containing a native H
 | [Account & Resources Footer](https://github.com/agentik-os/hermes-account-resource-footer) | Gateway-scoped quota, context, CPU, RAM, disk, account-switching, and reconnect status control. | [@agentik-os](https://github.com/agentik-os) |
 | [Hermes Server Stats](https://github.com/lzpgood123/hermes-server-stats) | Desktop page for read-only server health, token usage, tool/skill counts, and trends. | [@lzpgood123](https://github.com/lzpgood123) |
 | [Quota HUD](https://github.com/saralilyb/quota-hud) | Local status-bar and detail page for Codex and Claude subscription quota windows and reset times. | [@saralilyb](https://github.com/saralilyb) |
+| [AI Status](https://github.com/hifumi12390/hermes-ai-status-plugin) | Windows/NVIDIA sidebar page for GPU use, VRAM, temperature, RAM, and short-term trends. | [@hifumi12390](https://github.com/hifumi12390) |
+| [Workspace Context](https://github.com/meviusisback/hermes-workspace-context) | Inline composer strip for active-session context use, maximum tokens, percentage, and occupancy. | [@meviusisback](https://github.com/meviusisback) |
+| [Abyss](https://github.com/leviathofnoesia/hermes-abyss-plugin) | Local observability suite for traces, activity, calendars, signals, incidents, and agent graphs. | [@leviathofnoesia](https://github.com/leviathofnoesia) |
 
 ### Models & Infrastructure
 
@@ -100,6 +106,13 @@ Every entry below was verified against a public repository containing a native H
 | [GitHermes](https://github.com/claudioorjunior/githermes) | Dockable GitHub pull-request and issue pane with reviews, checks, files, threads, and in-pane merge. | [@claudioorjunior](https://github.com/claudioorjunior) |
 | [Hermes Projects](https://github.com/az1fr3/Hermes-projects-) | Project-scoped workspaces with persistent instructions, chats, and generated context files. | [@az1fr3](https://github.com/az1fr3) |
 
+### Utility & Customization
+
+| Plugin | Description | Author |
+|--------|-------------|--------|
+| [Desktop Achievements](https://github.com/asimons81/hermes-desktop-achievements) | Achievements page with a sidebar item, score chip, unlock notifications, sounds, haptics, and commands. | [@asimons81](https://github.com/asimons81) |
+| [Chat Width](https://github.com/Gohans1/chat-width) | Status-bar popover for preset or custom conversation and composer widths. | [@Gohans1](https://github.com/Gohans1) |
+
 ### Media & Visualizations
 
 | Plugin | Description | Author |
@@ -107,6 +120,7 @@ Every entry below was verified against a public repository containing a native H
 | [YouTube Player](https://github.com/chillerno1/hermes-yt-plugin) | Floating or docked keyless YouTube player using an isolated Electron webview. | [@chillerno1](https://github.com/chillerno1) |
 | [Office 3D](https://github.com/oslook/hermes-desktop-plugin-office-3d) | Isometric office view showing profile busy, idle, and offline state with aggregate session, token, and cost stats. | [@oslook](https://github.com/oslook) |
 | [Desktop Dashboard](https://github.com/hithithithub/hermes-desktop-dashboard) | Native Desktop sidebar shell that embeds a locally running Hermes web Dashboard. | [@hithithithub](https://github.com/hithithithub) |
+| [Desktop Web Browser](https://github.com/AWhileLater/hermes-desktop-web-browser) | Embedded multi-tab browser with bookmarks, annotations, and annotation-to-agent workflow. | [@AWhileLater](https://github.com/AWhileLater) |
 
 ### Security & External Integrations
 

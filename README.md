@@ -81,8 +81,6 @@ Every entry below was verified against a public repository containing a native H
 | [Hermes Token Cost](https://github.com/muntasirrmahdi/hermes-token-cost) | Status-bar token counter and historical actual-versus-list-price cost panel. | [@muntasirrmahdi](https://github.com/muntasirrmahdi) |
 | [Hermes API Speed Monitor](https://github.com/kouyichi/hermes-api-speed-monitor) | Status-bar time-to-first-token and output-throughput metrics for supported providers. | [@kouyichi](https://github.com/kouyichi) |
 | [Hermes Memory UI](https://github.com/xraysight/hermes-memory-ui) | Read-only native memory browser for built-in and supported external memory stores. | [@xraysight](https://github.com/xraysight) |
-| [Context Meter](https://github.com/JaakkoLipp/Hermes-desktop-plugins) | Inline composer context-use meter and warning control for the active conversation. | [@JaakkoLipp](https://github.com/JaakkoLipp) |
-| [OpenAI Usage Counter](https://github.com/Noa3/hermes-openai-counter) | Status-bar OpenAI usage counter for active account consumption. | [@Noa3](https://github.com/Noa3) |
 | [Account & Resources Footer](https://github.com/agentik-os/hermes-account-resource-footer) | Gateway-scoped quota, context, CPU, RAM, disk, account-switching, and reconnect status control. | [@agentik-os](https://github.com/agentik-os) |
 | [Hermes Server Stats](https://github.com/lzpgood123/hermes-server-stats) | Desktop page for read-only server health, token usage, tool/skill counts, and trends. | [@lzpgood123](https://github.com/lzpgood123) |
 | [Quota HUD](https://github.com/saralilyb/quota-hud) | Local status-bar and detail page for Codex and Claude subscription quota windows and reset times. | [@saralilyb](https://github.com/saralilyb) |

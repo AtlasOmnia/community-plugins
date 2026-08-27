@@ -46,6 +46,10 @@ Every entry below was verified against a public repository containing a native H
 | [Classic Gold Pack](https://github.com/Elevatormusic/hermes-classic-gold-pack) | Update-safe gold theme, caduceus background, telemetry tape, and settings page with a companion telemetry backend. | [@Elevatormusic](https://github.com/Elevatormusic) |
 | [OpenAI Shadcn Theme](https://github.com/agentik-os/hermes-openai-shadcn) | Neutral light and dark theme with floating-panel layout polish for supported Desktop SDK builds. | [@agentik-os](https://github.com/agentik-os) |
 | [Profile Identity](https://github.com/douglascorrea/hermes-profile-identity) | Per-profile titlebar chip, rail icon, chat backdrop, color override, and settings pane. | [@douglascorrea](https://github.com/douglascorrea) |
+| [Profile Avatars](https://github.com/moreirawebmaster/Hermes-Profile-Avatars) | Replaces profile initials with real avatars in the session sidebar, Kanban assignees, and identity marks. | [@moreirawebmaster](https://github.com/moreirawebmaster) |
+| [Persian Typography](https://github.com/omid3098/hermes-persian-typography) | Improves Persian chat typography, script direction, and streaming text while preserving code-block LTR behavior. | [@omid3098](https://github.com/omid3098) |
+| [Kal'tsit Rhodes Theme](https://github.com/qazlp66/hermes-kaltsit-theme) | Dynamic glass theme, animated background, and interactive desktop pet with accessibility preferences. | [@qazlp66](https://github.com/qazlp66) |
+| [Skin Studio](https://github.com/weiweiplus0527/hermes-skin-studio) | Theme editor with image palette extraction, video backgrounds, presets, and live Desktop skin updates. | [@weiweiplus0527](https://github.com/weiweiplus0527) |
 
 ### Collaboration & Workflow
 
@@ -53,6 +57,7 @@ Every entry below was verified against a public repository containing a native H
 |--------|-------------|--------|
 | [Buzz-Hive](https://github.com/0-CYBERDYNE-SYSTEMS-0/hermes-hive) | Native multi-profile crew room that routes work by mention through dedicated Hermes sessions. | [@0-CYBERDYNE-SYSTEMS-0](https://github.com/0-CYBERDYNE-SYSTEMS-0) |
 | [Hermes OpenSpec](https://github.com/FelineStateMachine/hermes-openspec) | Spec-driven development tools plus a Desktop tab for proposals, specs, and branch diffs. | [@FelineStateMachine](https://github.com/FelineStateMachine) |
+| [Agent Fleet](https://github.com/chankov/agent-fleet) | Multi-agent coding-orchestration system with a live Hermes Desktop fleet panel. | [@chankov](https://github.com/chankov) |
 
 ### Bots & Remote Control
 
@@ -80,12 +85,15 @@ Every entry below was verified against a public repository containing a native H
 | [OpenAI Usage Counter](https://github.com/Noa3/hermes-openai-counter) | Status-bar OpenAI usage counter for active account consumption. | [@Noa3](https://github.com/Noa3) |
 | [Account & Resources Footer](https://github.com/agentik-os/hermes-account-resource-footer) | Gateway-scoped quota, context, CPU, RAM, disk, account-switching, and reconnect status control. | [@agentik-os](https://github.com/agentik-os) |
 | [Hermes Server Stats](https://github.com/lzpgood123/hermes-server-stats) | Desktop page for read-only server health, token usage, tool/skill counts, and trends. | [@lzpgood123](https://github.com/lzpgood123) |
+| [Quota HUD](https://github.com/saralilyb/quota-hud) | Local status-bar and detail page for Codex and Claude subscription quota windows and reset times. | [@saralilyb](https://github.com/saralilyb) |
 
 ### Models & Infrastructure
 
 | Plugin | Description | Author |
 |--------|-------------|--------|
 | [Turbofit](https://github.com/SouthpawIN/turbofit) | Adaptive local-inference runtime and Desktop configuration surface for hardware-fit model selection. | [@SouthpawIN](https://github.com/SouthpawIN) |
+| [Ollama Usage Monitor](https://github.com/Kosello/hermes-ollama-usage-monitor) | Work-in-progress Desktop pane and chip for Ollama Cloud quota, request, history, and threshold monitoring. | [@Kosello](https://github.com/Kosello) |
+| [Qdrant File Discovery](https://github.com/brunocasado/hermes-qdrant-plugin) | Project file-discovery layer with a Desktop status pill; requires Qdrant and an embedding endpoint. | [@brunocasado](https://github.com/brunocasado) |
 
 ### Projects & Development
 
@@ -93,6 +101,14 @@ Every entry below was verified against a public repository containing a native H
 |--------|-------------|--------|
 | [GitHermes](https://github.com/claudioorjunior/githermes) | Dockable GitHub pull-request and issue pane with reviews, checks, files, threads, and in-pane merge. | [@claudioorjunior](https://github.com/claudioorjunior) |
 | [Hermes Projects](https://github.com/az1fr3/Hermes-projects-) | Project-scoped workspaces with persistent instructions, chats, and generated context files. | [@az1fr3](https://github.com/az1fr3) |
+
+### Media & Visualizations
+
+| Plugin | Description | Author |
+|--------|-------------|--------|
+| [YouTube Player](https://github.com/chillerno1/hermes-yt-plugin) | Floating or docked keyless YouTube player using an isolated Electron webview. | [@chillerno1](https://github.com/chillerno1) |
+| [Office 3D](https://github.com/oslook/hermes-desktop-plugin-office-3d) | Isometric office view showing profile busy, idle, and offline state with aggregate session, token, and cost stats. | [@oslook](https://github.com/oslook) |
+| [Desktop Dashboard](https://github.com/hithithithub/hermes-desktop-dashboard) | Native Desktop sidebar shell that embeds a locally running Hermes web Dashboard. | [@hithithithub](https://github.com/hithithithub) |
 
 ### Security & External Integrations
 

@@ -137,6 +137,7 @@ Every entry below was verified against a public repository containing a native H
 | [Hermes Todo](https://github.com/DanBennettUK/hermes-todo) | Profile-scoped task board shared across Hermes Desktop, CLI, REST API, and agents. | [@DanBennettUK](https://github.com/DanBennettUK) |
 | [Hermes Tasks](https://github.com/itsbeaudean/hermes-tasks) | Local task workflow with areas, task state, and a small Desktop plugin plus optional backend. | [@itsbeaudean](https://github.com/itsbeaudean) |
 | [Hermes Sticky Notes](https://github.com/VGFreakXBL/hermes-sticky-notes) | Profile-scoped sticky notes inside Hermes Desktop, including movable and stackable notes. | [@VGFreakXBL](https://github.com/VGFreakXBL) |
+| [Vault View](https://github.com/ergocogn/hermes-desktop-plugin-vault-view) | Local Markdown vault workspace with search, editing, tabs, link navigation, outlines, tags, backlinks, and a graph inside Hermes Desktop. | [@ergocogn](https://github.com/ergocogn) |
 
 Row format:
 ```

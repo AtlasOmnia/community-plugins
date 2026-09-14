@@ -90,6 +90,7 @@ Every entry below was verified against a public repository containing a native H
 | [AI Status](https://github.com/hifumi12390/hermes-ai-status-plugin) | Windows/NVIDIA sidebar page for GPU use, VRAM, temperature, RAM, and short-term trends. | [@hifumi12390](https://github.com/hifumi12390) |
 | [Workspace Context](https://github.com/meviusisback/hermes-workspace-context) | Inline composer strip for active-session context use, maximum tokens, percentage, and occupancy. | [@meviusisback](https://github.com/meviusisback) |
 | [Abyss](https://github.com/leviathofnoesia/hermes-abyss-plugin) | Local observability suite for traces, activity, calendars, signals, incidents, and agent graphs. | [@leviathofnoesia](https://github.com/leviathofnoesia) |
+| [DeepSeek Peak](https://github.com/antonbru/deepseek-peak) | Status-bar chip for DeepSeek peak / off-peak pricing: live countdown to the tariff switch, peak windows in the machine's own timezone, palette status command. No backend, no network calls. | [@antonbru](https://github.com/antonbru) |
 
 ### Models & Infrastructure
 

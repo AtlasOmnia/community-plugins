@@ -71,6 +71,7 @@ Every entry below was verified against a public repository containing a native H
 | [Hermes Computer Viewer](https://github.com/thomasbek3/hermes-computer-viewer) | Docked live remote-desktop viewer for cloud or LAN Mac, Windows, and Linux machines. | [@thomasbek3](https://github.com/thomasbek3) |
 | [Hermes Agent Dock](https://github.com/BkashJEE/hermes-agent-dock) | Floating or docked native card for direct chat with configured profiles and concurrent jobs. | [@BkashJEE](https://github.com/BkashJEE) |
 | [Hermes Gateway Switcher](https://github.com/djedi/hermes-gateway-switcher) | Switches between named local, SSH, and remote OAuth gateways without closing Desktop. | [@djedi](https://github.com/djedi) |
+| [Bot HQ](https://github.com/the-spirit-realm/hermes-bot-hq) | Sidebar fleet page for every local Hermes bot, with per-bot dashboards the bots publish themselves. | [@the-spirit-realm](https://github.com/the-spirit-realm) |
 
 ### Usage & Session Insight
 

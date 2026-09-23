@@ -139,6 +139,7 @@ Every entry below was verified against a public repository containing a native H
 | [Hermes Tasks](https://github.com/itsbeaudean/hermes-tasks) | Local task workflow with areas, task state, and a small Desktop plugin plus optional backend. | [@itsbeaudean](https://github.com/itsbeaudean) |
 | [Hermes Sticky Notes](https://github.com/VGFreakXBL/hermes-sticky-notes) | Profile-scoped sticky notes inside Hermes Desktop, including movable and stackable notes. | [@VGFreakXBL](https://github.com/VGFreakXBL) |
 | [Vault View](https://github.com/ergocogn/hermes-desktop-plugin-vault-view) | Local Markdown vault workspace with search, editing, tabs, link navigation, outlines, tags, backlinks, and a graph inside Hermes Desktop. | [@ergocogn](https://github.com/ergocogn) |
+| [Quick Reply](https://github.com/yuqanggao/hermes-quick-reply) | Quick reply panel for inserting preset snippets into chat, with category browsing and edit/delete management. | [@yuqanggao](https://github.com/yuqanggao) |
 
 Row format:
 ```

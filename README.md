@@ -139,6 +139,7 @@ Every entry below was verified against a public repository containing a native H
 | [Hermes Tasks](https://github.com/itsbeaudean/hermes-tasks) | Local task workflow with areas, task state, and a small Desktop plugin plus optional backend. | [@itsbeaudean](https://github.com/itsbeaudean) |
 | [Hermes Sticky Notes](https://github.com/VGFreakXBL/hermes-sticky-notes) | Profile-scoped sticky notes inside Hermes Desktop, including movable and stackable notes. | [@VGFreakXBL](https://github.com/VGFreakXBL) |
 | [Vault View](https://github.com/ergocogn/hermes-desktop-plugin-vault-view) | Local Markdown vault workspace with search, editing, tabs, link navigation, outlines, tags, backlinks, and a graph inside Hermes Desktop. | [@ergocogn](https://github.com/ergocogn) |
+| [Prompt Queue](https://github.com/vectorforge22/prompt-queue) | Kanban-style prompt queue: Play drains cards one at a time, each into a new sidebar session, gated on background-review completion | [@vectorforge22](https://github.com/vectorforge22) |
 
 Row format:
 ```

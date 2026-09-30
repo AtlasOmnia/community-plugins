@@ -141,6 +141,7 @@ Every entry below was verified against a public repository containing a native H
 | [Vault View](https://github.com/ergocogn/hermes-desktop-plugin-vault-view) | Local Markdown vault workspace with search, editing, tabs, link navigation, outlines, tags, backlinks, and a graph inside Hermes Desktop. | [@ergocogn](https://github.com/ergocogn) |
 | [Quick Reply](https://github.com/yuqanggao/hermes-quick-reply) | Quick reply panel for inserting preset snippets into chat, with category browsing and edit/delete management. | [@yuqanggao](https://github.com/yuqanggao) |
 | [Prompt Optimizer](https://github.com/yuqanggao/hermes-prompt-optimizer) | Prompt rewriting panel with offline structured templates; LLM mode requires a separately supplied backend. | [@yuqanggao](https://github.com/yuqanggao) |
+| [Prompt Queue](https://github.com/vectorforge22/prompt-queue) | Kanban-style prompt queue that runs cards in new sessions by default or existing sessions, with background-review polling. | [@vectorforge22](https://github.com/vectorforge22) |
 
 Row format:
 ```

@@ -1,5 +1,9 @@
 # AtlasOmnia Community Plugins
 
+Curated community plugins for Hermes Agent (Nous Research).
+
+> Part of the AtlasOmnia Hermes Agent toolset → [hermesagenttools.com/hermes-agent/](https://hermesagenttools.com/hermes-agent/)
+
 A curated list of community-made plugins for the [Hermes desktop client](https://hermes-agent.nousresearch.com/docs), maintained by [AtlasOmnia](https://github.com/AtlasOmnia).
 
 Each entry links to a plugin maintained in its own repository. Plugins are **listed, not audited** — review any plugin's code before running it on your machine.

@@ -43,7 +43,7 @@ Every entry below was verified against a public repository containing a native H
 
 | Plugin | Description | Author |
 |--------|-------------|--------|
-| [Codex Skin](https://github.com/FPSUnleashed/hermes-codex-skin) | Codex-inspired light and dark chat styling while retaining Hermes' native behavior. | [@FPSUnleashed](https://github.com/FPSUnleashed) |
+| [Codex Skin](https://github.com/FPSUnleashed/hermes-codex-skin) | Codex-inspired light/dark chat layout with history previews, a floating sidebar, and a task Inbox with Settle/Snooze controls and a Working group. | [@FPSUnleashed](https://github.com/FPSUnleashed) |
 | [Appearance Hub](https://github.com/Heybinshao/hermes-appearance-hub) | Status-bar appearance controls for themes, typography, texture, density, scale, and window effects. | [@Heybinshao](https://github.com/Heybinshao) |
 | [Theme Lab](https://github.com/0-CYBERDYNE-SYSTEMS-0/theme-lab) | Builds and fine-tunes Hermes Desktop color themes from an image and color controls. | [@0-CYBERDYNE-SYSTEMS-0](https://github.com/0-CYBERDYNE-SYSTEMS-0) |
 | [Hermes Theme Picker](https://github.com/jdtimothy/hermes-theme-picker) | Offline full-page theme picker with embedded palettes, local persistence, and optional gateway-wide sync. | [@jdtimothy](https://github.com/jdtimothy) |

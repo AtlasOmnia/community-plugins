@@ -59,6 +59,7 @@ Every entry below was verified against a public repository containing a native H
 
 | Plugin | Description | Author |
 |--------|-------------|--------|
+| [Kanban Empowered](https://github.com/dellanio/hermes-kanban-empowered) | Native Kanban dashboard with project maps, structured human requests, Desktop/Telegram replies, block explanations, and bounded infrastructure-failure recovery; requires its Python backend. | [@dellanio](https://github.com/dellanio) |
 | [Buzz-Hive](https://github.com/0-CYBERDYNE-SYSTEMS-0/hermes-hive) | Native multi-profile crew room that routes work by mention through dedicated Hermes sessions. | [@0-CYBERDYNE-SYSTEMS-0](https://github.com/0-CYBERDYNE-SYSTEMS-0) |
 | [Hermes OpenSpec](https://github.com/FelineStateMachine/hermes-openspec) | Spec-driven development tools plus a Desktop tab for proposals, specs, and branch diffs. | [@FelineStateMachine](https://github.com/FelineStateMachine) |
 | [Agent Fleet](https://github.com/chankov/agent-fleet) | Multi-agent coding-orchestration system with a live Hermes Desktop fleet panel. | [@chankov](https://github.com/chankov) |
